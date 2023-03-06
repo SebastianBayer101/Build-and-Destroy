@@ -8,3 +8,4 @@ D - walk right
 
 LeftMouseCklick - Place block
 RightMouseClick - Destroy block
+
